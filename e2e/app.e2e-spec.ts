@@ -1,10 +1,10 @@
-import { Avid2Page } from './app.po';
+import { Avid3Page } from './app.po';
 
-describe('avid2 App', function() {
-  let page: Avid2Page;
+describe('avid3 App', function() {
+  let page: Avid3Page;
 
   beforeEach(() => {
-    page = new Avid2Page();
+    page = new Avid3Page();
   });
 
   it('should display message saying app works', () => {
